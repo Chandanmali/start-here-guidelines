@@ -1,9 +1,7 @@
 ﻿# CONTRIBUTORS
 
 - [ayushrakesh](https://github.com/ayushrakesh)
-- 
 - [Chandanmali](https://github.com/Chandanmali)
-- 
 - [@albossmohammad83](https://github.com/albossmohammad83)
 
 - [@sserwangaedrisa](https://github.com/sserwangaedrisa)
